@@ -24,11 +24,14 @@ Light/Dark mode (saved with localStorage)
 
  ----- Screenshot -----
 
-  ![Image Alt](https://github.com/faizanalisyed2776/personalised-portfolio/blob/ad0e70c62e0a682aff11f25d5b0520bd7c1f5db1/Screenshot%202025-06-23%20085910.png)
+  ![Image Alt](https://github.com/faizanalisyed2776/personalised-portfolio/blob/133a050ac7a062e6601771810e4792d34a616b23/template.png)
  
   
   ![Image Alt](https://github.com/faizanalisyed2776/personalised-portfolio/blob/ac41becef9ab3e17ceac90d636b34a573ccc75e0/Screenshot%202025-06-23%20085910.png)
+
  
+  ![Image Alt](image_url)
+
  
  ----- Links -----
 GitHub: faizanalisyed2776
