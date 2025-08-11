@@ -11,7 +11,7 @@ Theme toggle (Dark/Light)
 
 Font Awesome Icons
 
- ----- Features -----
+ ----- |Features| -----
 Sidebar navigation with active scroll
 
 Animated skill bars
