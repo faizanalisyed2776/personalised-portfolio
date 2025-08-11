@@ -3,12 +3,10 @@
 A responsive and interactive personal portfolio showcasing my skills, projects, and contact info. Built with modern HTML, CSS, and JavaScript.
 
  ----- |Tech Stack| -----
+
 HTML5, CSS3, JavaScript (ES6)
-
 Responsive design (Flexbox, Grid)
-
 Theme toggle (Dark/Light)
-
 Font Awesome Icons
 
  ----- |Features| -----
